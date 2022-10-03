@@ -1,0 +1,36 @@
+.flowing-detali{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    
+    
+}
+.flowing-icon{
+    display: flex;
+    align-items: center;
+    
+    margin-top: 20px;
+    
+}
+.flowing-icon img{
+    height: 60px;
+}
+.flowing-icon h3{
+    margin-left: 8px;
+    font-size: 15px;
+}
+.flowing-icon i{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.616);
+}
+.flowing-icon h4{
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.74);
+    margin-left: 30px;
+}
+.flowing-detali h5{
+    font-size: 25px;
+    margin-top: 15px;
+    color: rgba(255, 0, 0, 0.808);
+}

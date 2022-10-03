@@ -1,0 +1,16 @@
+.info-name{
+    display: flex;
+   
+}
+
+.signup{
+    width: 500px;
+}
+.info-user{
+    display: flex;
+
+    
+}
+.info-work{
+    padding-right: 250px;
+}

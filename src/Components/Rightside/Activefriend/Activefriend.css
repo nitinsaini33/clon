@@ -1,0 +1,39 @@
+.activefriend{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.activefriend h2{
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    gap: 30px;
+    letter-spacing: 1px;
+    font-style: italic;
+    position: relative;
+    
+}
+.activefriend h1{
+    font-size: 25px;
+    
+}
+.activefriend h2 img
+{
+    height: 60px;
+    
+    
+}
+.activefriend h2::before{
+    content:'';
+    position:absolute;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    bottom: 11px;
+    
+left: 58px;
+background-color: green;
+display: block;
+border: 2px solid #fff;
+
+}
