@@ -41,9 +41,9 @@ const YourInfo = () => {
        <h2>Status<span>Single</span></h2>
        <h2>Lives In<span>India</span></h2>
        <h2>Work at<span>Amazon</span></h2>
-       
+       <div className='log-btn'>
        <button>LOg Out</button>
-       
+       </div>
        </div>
        
     

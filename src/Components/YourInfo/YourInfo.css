@@ -41,6 +41,11 @@
     font-size: 18px;
 
 }
+.log-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .your-info button{
     padding: 13px;
     width: 130px;
